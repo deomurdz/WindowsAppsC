@@ -1,0 +1,47 @@
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe.config
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.pdb
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.pdb
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csproj.GenerateResource.Cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.FormMain.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.Properties.Resources.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v03\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csprojResolveAssemblyReference.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe.config
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.pdb
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csprojAssemblyReference.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.FormMain.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.Properties.Resources.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csproj.GenerateResource.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v05\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.pdb
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe.config
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.pdb
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csprojAssemblyReference.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.FormMain.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.Properties.Resources.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csproj.GenerateResource.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v06\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.pdb
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe.config
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.pdb
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csprojAssemblyReference.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.FormMain.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.Properties.Resources.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csproj.GenerateResource.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Terminal v07\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.pdb
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe.config
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.pdb
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csproj.AssemblyReference.cache
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csproj.SuggestedBindingRedirects.cache
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.FormMain.resources
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\obj\Debug\RS_232_Terminal.Properties.Resources.resources
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csproj.GenerateResource.cache
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\obj\Debug\RS-232 Terminal.csproj.CoreCompileInputs.cache
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.exe
+O:\Users\Devon.Murdza\Test Programs\RS232 Terminal\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.pdb

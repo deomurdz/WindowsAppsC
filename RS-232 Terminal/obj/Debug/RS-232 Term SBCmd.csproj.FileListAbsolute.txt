@@ -1,0 +1,9 @@
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe.config
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\bin\Debug\GEN RS-232 Terminal.pdb
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\obj\Debug\RS-232 Term SBCmd.csprojAssemblyReference.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\obj\Debug\RS_232_Terminal.FormMain.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\obj\Debug\RS_232_Terminal.Properties.Resources.resources
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\obj\Debug\RS-232 Term SBCmd.csproj.GenerateResource.cache
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.exe
+C:\Walt\Engr Test Progs\RS-232 CS Terminal WinForm\RS-232 CS Term SBCmd v01\RS232 Term SBCmd\RS-232 Terminal\obj\Debug\GEN RS-232 Terminal.pdb
